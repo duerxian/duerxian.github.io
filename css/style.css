@@ -1,12 +1,27 @@
+body,a,ul,p,h1,h2,h3,h4,dl,dd,form,input,textarea,select,img { padding:0; margin:0; font-family:arial; }
+li { list-style:none; }
+img{border:0}
+ { border:none; }
+a { text-decoration:none; color:#444444;}
+a{outline:none;blr:expression(this.onFocus=this.blur());}
+a:hover { text-decoration:underline; }
+
+.clear { clear:both;}
+body { background:#fff;}
+
 p {
-
-	color:green;
+	color:#313131;
 	font-size: 38px;
-
+  text-align: center;
 }
 
 ._lis {
 
 	color:red;
 
+}
+.top {
+
+	width: 100%; height: auto; background: #f1aa00; color:#fff;
+	font-size: 36px; text-align: center; padding: 15px 0px;
 }
