@@ -7,12 +7,13 @@ a{outline:none;blr:expression(this.onFocus=this.blur());}
 a:hover { text-decoration:underline; }
 
 .clear { clear:both;}
-body { background:#fff;}
+body { background:#bff;}
 
 p {
 	color:#313131;
 	font-size: 38px;
   text-align: center;
+
 }
 
 ._lis {
@@ -22,6 +23,6 @@ p {
 }
 .top {
 
-	width: 100%; height: auto; background: #f1aa00; color:#fff;
+	width: 100%; height: auto; background-color: #f1aa00; color:#fff;
 	font-size: 36px; text-align: center; padding: 15px 0px;
 }
