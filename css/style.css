@@ -7,22 +7,22 @@ a{outline:none;blr:expression(this.onFocus=this.blur());}
 a:hover { text-decoration:underline; }
 
 .clear { clear:both;}
-body { background:#bff;}
+body { background:#fff;}
 
 p {
 	color:#313131;
 	font-size: 38px;
   text-align: center;
-
+  width: 100%;
 }
 
 ._lis {
 
-	color:red;
+	color:#555555; padding: 25px 0px;
 
 }
 .top {
 
-	width: 100%; height: auto; background-color: #f1aa00; color:#fff;
+	width: 100%; height: auto; background-color: #0D4393; color:#fff;
 	font-size: 36px; text-align: center; padding: 15px 0px;
 }
