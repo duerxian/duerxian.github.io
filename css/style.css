@@ -7,7 +7,7 @@ a{outline:none;blr:expression(this.onFocus=this.blur());}
 a:hover { text-decoration:underline; }
 
 .clear { clear:both;}
-body { background:#bff;}
+body { background:#B9CEE3;}
 
 p {
 	color:#313131;
@@ -25,4 +25,16 @@ p {
 
 	width: 100%; height: auto; background-color: #f1aa00; color:#fff;
 	font-size: 36px; text-align: center; padding: 15px 0px;
+}
+
+._en p {
+
+    font-size: 20px;
+    line-height: 30px;
+}
+
+._en ._encolour {
+
+    font-size: 20px;
+    font-weight: bolder;
 }
