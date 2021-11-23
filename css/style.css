@@ -11,16 +11,20 @@ body { background:#B9CEE3;}
 
 p {
 	color:#313131;
-	font-size: 38px;
   text-align: center;
 }
 
-._lis {
-
-
+._pic {
+  margin-top: 40px;
 }
-.top {
 
+._lis {
+  font-size: 20px;
+  background:#fff;
+}
+
+.top {
+  background:#fff;
 	font-size: 36px; text-align: center; padding: 15px 0px;
 }
 
